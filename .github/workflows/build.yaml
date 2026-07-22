@@ -12,7 +12,7 @@ env:
 
 jobs:
   test_build:
-    name: Test and Build
+    name: Build and Test Angular Application
     runs-on: ubuntu-latest
     permissions:
       contents: read
